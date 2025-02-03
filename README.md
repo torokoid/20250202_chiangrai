@@ -149,6 +149,11 @@ p.note { display: none; }
     
 <h2><span class="yellow">屋外の重機作業は流石にお休みですが、熱帯の陽射しで豆の天日干し</span></h2>
 <a href="20250202_010.JPG" target="_blank"><img src="20250202_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">木々の上から野鳥がさえずりました</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5VD6-i_HNM?si=jcn1OzsLfqU-6o3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
 <a href="20250202_011.JPG" target="_blank"><img src="20250202_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">この陽射しはなんでもないものでも輝かせます</span></h2>
