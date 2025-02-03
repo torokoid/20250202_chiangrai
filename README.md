@@ -128,7 +128,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">夜明け前の北の空には北斗七星 朝4:45<br>北極星は硬度が低くて見えません</span></h2>
+<h2><span class="yellow">夜明け前の北の空には北斗七星 朝4:45<br>北極星は高度が低くて見えません</span></h2>
 <a href="20250202_001.JPG" target="_blank"><img src="20250202_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250202_002.JPG" target="_blank"><img src="20250202_002.JPG" alt="サンプル画像" width="900" /></a>
     
